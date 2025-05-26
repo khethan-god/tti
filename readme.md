@@ -64,14 +64,14 @@ This tool also has the following flags which can be used if you find the default
 ./tti -bg=perlin-s "Hello there!
 ```
 <p align="center">
-    ![rendered image](examples/Hello_there!.png)
+    <img src="examples/Hello_there!.png"/>
 </p>
 
 ```bash
 ./tti -animate "Hello there!
 ```
 <p align="center">
-    ![rendered GIF](examples/Hello_there!.gif)
+    <img src="examples/Hello_there!.gif"/>
 </p>
 
 
