@@ -71,7 +71,7 @@ This tool also has the following flags which can be used if you find the default
 ./tti -animate "Hello there!
 ```
 <p align="center">
-    ![rendered GIF](examples/Hello_there!.png)
+    ![rendered GIF](examples/Hello_there!.gif)
 </p>
 
 
