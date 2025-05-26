@@ -58,10 +58,27 @@ This tool also has the following flags which can be used if you find the default
     -animate    # creates a GIF
 ```
 
+## Examples
+
+```bash
+./tti -bg=perlin-s "Hello there!
+```
+<p align="center">
+    ![rendered image](examples/Hello_there!.png)
+</p>
+
+```bash
+./tti -animate "Hello there!
+```
+<p align="center">
+    ![rendered GIF](examples/Hello_there!.png)
+</p>
+
+
 ### TODO
 ---
 Need to add support for emoji rendering
 
 ### License
 ---
-Distributed under MIT license. See `LICENSE.txt` for more information
+Distributed under MIT license. See `LICENSE` for more information
