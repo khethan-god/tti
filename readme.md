@@ -41,7 +41,7 @@ This project uses fonts from Google Fonts under their respective licenses. See `
     go build   # create a tti executable
 
     # run the binary/executable file
-    tti "Hello World"
+    ./tti "Hello World"
 ```
 
 
